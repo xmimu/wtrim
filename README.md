@@ -18,7 +18,7 @@
 
 ## 下载
 
-[下载地址]()
+[下载地址](https://github.com/xmimu/wtrim/releases)
 
 ---
 
